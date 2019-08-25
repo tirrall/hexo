@@ -5,7 +5,7 @@ categories: 技术向
 tags: 群晖,NAS
 ---
 # 捡垃圾之蜗牛星际折腾黑群晖
- 
+<!--more-->
 ![300块捡到手的蜗牛星际](http://pw9qgbqkb.bkt.clouddn.com/Snipaste_2019-08-25_13-35-09.png)
 	到手先拆机换静音风扇,垃圾电源/SSD/内存继续用,后续看情况再换,毕竟穷~
 ## 一、环境配置
